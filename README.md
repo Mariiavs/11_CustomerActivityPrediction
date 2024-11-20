@@ -1,4 +1,4 @@
-# Supervised_learning
+# 11_CustomerActivityPrediction
 
 ## Исходные данные
 
